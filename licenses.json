@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "key": "MSTU-ZGQG-QL78-5457",
+      "customer": "Owner test key",
+      "expires": "2027-12-31",
+      "maxDevices": 3,
+      "active": true,
+      "devices": []
+    }
+  ]
+}
